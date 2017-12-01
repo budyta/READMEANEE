@@ -1,3 +1,2 @@
-# READMEANEE  
-Hola amigos de youtube  
-omkuju
+# Trabajo REMIX 
+
