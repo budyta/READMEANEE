@@ -22,9 +22,9 @@ Luego abre tu editor de texto y comienza a desarrollar. El navegador se actualiz
 
 Aquí hay algunas cosas a considerar si tiene problemas para construir el paquete. 
 * Asegúrese de tener la versión correcta de node, npm y nvm. Puede buscar la versión que se prueba en Travis CI mirando.  
-'<node --version>'  
-'<npm --version>'  
-  * En sistemas operativos basados ​​en Debian como Ubuntu 14.04LTS, puede que necesite ejecutar apt-get install build-essential. Después de instalar build.
+´<node --version>´
+´<npm --version>´   
+* En sistemas operativos basados ​​en Debian como Ubuntu 14.04LTS, puede que necesite ejecutar apt-get install build-essential. Después de instalar build.
   
 
 
